@@ -1,7 +1,7 @@
 ---
 title: "Kegiatan Rutin GDGOC STT Nurul Fikri"
 date: "2023-11-20"
-author: "Media Team"
+author: "Yudha Rizky"
 description: "Mengenal berbagai kegiatan menarik yang rutin diadakan oleh GDGOC STT Nurul Fikri"
 tags: ["kegiatan", "event", "community"]
 ---
