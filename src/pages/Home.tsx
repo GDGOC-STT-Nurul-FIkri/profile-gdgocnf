@@ -183,7 +183,7 @@ const Home: React.FC = () => {
             <ArrowRight className='ml-2 h-5 w-5' />
           </Link>
           <a
-            href='mailto:gdgoc@sttbandung.ac.id'
+            href='mailto:dsc@nurulfikri.ac.id'
             className='inline-flex items-center px-8 py-3 border-2 border-white text-white font-semibold rounded-lg hover:bg-white hover:text-blue-600 transition-colors'
           >
             Hubungi Kami
